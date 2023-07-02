@@ -6,17 +6,19 @@ result from the geography of pre-existing towns and cities.
 
 Our goal is to develop an AI based solution that will allow to add population to inhabit a specific neighborhood (TLV), while satisfying the social, environmental, and economic constraints, and maximizing the benefits from existing public buildings.
 
+Final Report to this algorithm can be found [here](/Final_Report%20_Tama48.pdf).
+
 ![Alt text](/figures/gui.png?raw=true "GUI")
 
 ## The project's main sections:
 
 ### 1. Data Preparation: 
 
-how to extract a CAD file, process it into meaningful data and labels.
+How to extract a CAD file, process it into meaningful data and labels.
 
 ### 2. Data Structure & Defining ‘Solution’: 
 
-how to represent the data to the algorithm in a meaningful and non-biased way. 
+How to represent the data to the algorithm in a meaningful and non-biased way. 
 
 ### 3. AI Algorithms
 According to known parameters in the field of architecture and urban planning and given the number of people we would like to add to the neighbourhood we developed an
