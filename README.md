@@ -8,22 +8,25 @@ Our goal is to develop an AI based solution that will allow to add population to
 
 ![Alt text](/figures/gui.png?raw=true "GUI")
 
-As Part of this project we had these main sections:
+## The project's main sections:
 
-1. Data Preparation: how to extract a CAD file, process it into meaningful data and labels.
+### 1. Data Preparation: how to extract a CAD file, process it into meaningful data and labels.
 
-2. Data Structure & Defining ‘Solution’: how to represent the data to the algorithm in a meaningful and non-biased way. 
+### 2. Data Structure & Defining ‘Solution’: how to represent the data to the algorithm in a meaningful and non-biased way. 
 
-3. AI Algorithms
+### 3. AI Algorithms
 According to known parameters in the field of architecture and urban planning and given the number of people we would like to add to the neighbourhood we developed an
 automatic solution to decide how many floors to add for each public and private buildings. We defined a cost function, an evaluation metric, and decided about two Classic Algorithms we learned at the course, these are:
 
    - Genetic Algorithm (Artificial Intelligence Algorithm #1)
    - Min-Conflict (Artificial Intelligence Algorithm #2)
 
-5.  Graphic User Interface
+### 4.  Graphic User Interface
 user a 3D graphic representation on the algorithms’ output, displaying the added floors to each building in our map, along with the score, each one of
 the algorithms outputted. After the user sets the amount of units he wishes to add and selects the algorithm to run, the added floors that are calculated are drawn in a different manner from the original buildings in order to ease the visual conception.
+
+## My contribution to this work:
+Sections #2 & #3, with Adi Yehezkely.
 
 ## Technologies:
 - Algorithms: Python
